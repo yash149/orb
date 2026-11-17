@@ -1,0 +1,15 @@
+# Arduino / PlatformIO build artifacts
+.build/
+build/
+.pio/
+.vscode/
+*.elf
+*.hex
+*.bin
+*.map
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*~
