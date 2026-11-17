@@ -1,0 +1,7 @@
+Item,Qty,Role,Status,Purchase link,Notes
+ESP32-C3 DevKitM-1,1,Main microcontroller,In project,,"Mokxi simulated board; verify exact physical board before purchasing"
+4-inch ST7796S SPI TFT with integrated resistive touch,1,Display and touch UI,In project,,"Touch is XPT2046-compatible per component pin naming; verify exact module voltage and backlight requirements"
+DS3231 RTC module,1,Real-time clock,In project,,"I2C module; use a suitable backup battery"
+BME280 breakout,1,Indoor temperature humidity and pressure,In project,,"I2C module; confirm breakout VIN range"
+Breadboard,1,Prototype wiring,In project,,"Reuse if already owned"
+Jumper wires,1 set,Prototype wiring,In project,,"Measure actual number used"
